@@ -1,2 +1,2 @@
 # Резюме на HTML & CSS
-### Просмотреть резюме [Резюме](https://andreykozlov-dev.github.io/resume/)
+###  [Просмотреть резюме](https://andreykozlov-dev.github.io/resume/)
